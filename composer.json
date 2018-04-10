@@ -19,7 +19,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://gitlab.com/datlv/laravel-kit.git"
+            "url": "https://github.com/datlv/laravel-kit.git"
         }
     ],
     "require": {
